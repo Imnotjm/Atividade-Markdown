@@ -1,6 +1,6 @@
-🌌 Biblioteca Digital Kayzer
+🌌 Biblioteca Digital Everton Ribeiro
 
-A Biblioteca Digital Kayzer nasceu com o propósito de unir conhecimento, tecnologia e imaginação.
+A Biblioteca Digital Everton Ribeiro nasceu com o propósito de unir conhecimento, tecnologia e imaginação.
 Criada para o ambiente escolar, ela transforma o gerenciamento de livros em uma experiência prática, intuitiva e até um pouco mágica.
 Seu lema é simples:
 
@@ -26,7 +26,9 @@ Contato
 
 🪄 Sobre o Projeto
 
-O Kayzer é um sistema desenvolvido para escolas que desejam digitalizar o gerenciamento de seus acervos.
+Logo: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FC6m5uLuuw2C%2F&psig=AOvVaw3DYPABuN1Bk6-xDCyYkv7z&ust=1761163205587000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCk0q2KtpADFQAAAAAdAAAAABAE
+
+O Everton Ribeiro é um sistema desenvolvido para escolas que desejam digitalizar o gerenciamento de seus acervos.
 Além de cuidar do cadastro e empréstimo de livros, ele também sugere novas leituras e cria relatórios inteligentes.
 
 Objetivos do Projeto
@@ -75,7 +77,7 @@ Estilo e Layout	TailwindCSS + HTML5
 
 Baixe o projeto diretamente do repositório oficial:
 
-git clone https://github.com/kayzer-digital/biblioteca.git
+git clone https://github.com/evertonribeiro-digital/biblioteca.git
 
 
 Entre na pasta do projeto:
@@ -98,7 +100,7 @@ Abra o navegador e acesse:
 
 🌅 Demonstração de Uso
 // Exemplo de cadastro de livro
-import { cadastrarLivro } from "./sistemaKayzer.js";
+import { cadastrarLivro } from "./sistemaEvertonRibeiro.js";
 
 cadastrarLivro({
   titulo: "A Menina que Roubava Livros",
@@ -108,9 +110,9 @@ cadastrarLivro({
 });
 
 
-“O Kayzer busca não apenas organizar livros, mas iluminar o caminho do leitor.”
+“O Everton Ribeiro busca não apenas organizar livros, mas iluminar o caminho do leitor.”
 
-Nota
+📝 Nota
 
 Versões anteriores do sistema foram refatoradas e descontinuadas em 2025 para dar espaço a esta versão totalmente digital e aprimorada.
 
@@ -130,21 +132,21 @@ Sistema de recomendação com IA 🤖
 
 🔗 Repositórios Relacionados
 
-Kayzer Mobile
+EvertonRibeiro Mobile
 
-Kayzer API
+EvertonRibeiro API
 
-Kayzer Dashboard
+EvertonRibeiro Dashboard
 
 👩‍💻 Contribuidores
 
-Equipe responsável por dar vida ao Kayzer:
+Equipe responsável por dar vida ao Everton Ribeiro:
 
-@João Nery — Documentação, identidade visual e estruturação do projeto
+@joao miguel — Documentação, identidade visual e estruturação do projeto
 
-@joao nery — Back-end e banco de dados
+@joaodev — Back-end e banco de dados
 
-@Joao.design — Interface e experiência do usuário (UI/UX)
+@joao.desing — Interface e experiência do usuário (UI/UX)
 
 @joaofront — Integração e deploy
 
@@ -153,11 +155,12 @@ Equipe responsável por dar vida ao Kayzer:
 Quer saber mais sobre o projeto ou enviar sugestões?
 Entre em contato conosco:
 
-📧 E-mail: equipekayzer@escola.com.br
+📧 E-mail: equipeevertonribeiro@escola.com.br
 
-🌐 Site: www.biblioteca-kayzer.dev
+🌐 Site: www.biblioteca-evertonribeiro.dev
 
-📱 Instagram: @kayzer.digital
-💬 Discord: comunidadekayzer#2025
+📱 Instagram: @evertonribeiro.digital
 
-📄 Documento criado por João Nery para a atividade prática de Markdown: Sistema de Gerenciamento de Biblioteca Escolar.
+💬 Discord: comunidadeevertonribeiro#2025
+
+📄 Documento criado por João Miguel para a atividade prática de Markdown: Sistema de Gerenciamento de Biblioteca Escolar.
